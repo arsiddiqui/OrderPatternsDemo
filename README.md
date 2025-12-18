@@ -7,7 +7,9 @@ This solution demonstrates **10 classic design patterns** using the **same use c
 ## Projects
 
 - **OrderDomain**: shared domain model and interfaces used by every demo
-- **SingletonDemo**
+- **SingletonDemo** : The Singleton design pattern ensures that a class has only one instance throughout the application lifecycle and provides a global access point to that instance.
+    In simple terms:
+          No matter how many times you request the object, you always get the same instance.
 - **FactoryMethodDemo**
 - **AbstractFactoryDemo**
 - **BuilderDemo**
